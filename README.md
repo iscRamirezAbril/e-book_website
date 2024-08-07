@@ -14,7 +14,9 @@ This project it's a simple website for a fictitious company named "Blog Mastery"
 
 <br/>
 
-![Figma Prototype](./images/readme-img-1.jpg)
+<div align="center">
+  <img src="./images/readme-img-1.jpg" alt="Blog Mastery Prototype"/>
+</div>
 
 ### -> Website
 <div align="center">
@@ -23,7 +25,9 @@ This project it's a simple website for a fictitious company named "Blog Mastery"
 
 <br/>
 
-![Blog Mastery Website](./images/readme-img-2.jpg)
+<div align="center">
+  <img src="./images/readme-img-2.jpg" alt="Blog Mastery Website"/>
+</div>
 
 ### -> Developer
 #### **Name**: _Ramirez Flores Abril._
